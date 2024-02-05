@@ -1,0 +1,56 @@
+body {
+    background: grey;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div{
+    display: flex;
+    width: 100%;
+    height:47vh;
+    border-radius: .7rem;
+}
+
+.div1 {
+    margin: 15px;
+    border: 2px;
+    background: linear-gradient(grey,rgb(62, 64, 63));
+    padding-left: 25px;
+    width: 50%
+}
+
+.div2 {
+    margin: 15px;
+    border:2px;
+    background:linear-gradient(grey,rgb(62, 64, 63));
+    padding-left: 25px;
+    width: 50%
+    
+}
+
+.alpha {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    border-radius: 0.7rem;
+    height: 47vh;
+}
+
+.alpha1 {
+    margin: 15px;
+    border: 2px;
+    background: linear-gradient(grey,rgb(62, 64, 63));
+    padding-left: 25px;
+    width: 50%;
+}
+
+.alpha1 h1{
+    ;
+}
+
+
